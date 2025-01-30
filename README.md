@@ -3,6 +3,7 @@
 
 ## Usage 
 Copy the entire bookmark.js into the link portion of a book mark. Click the bookmark when you are not leetcode.com, the markdown will be copied to the clipboard
+> Note: The browser does not like the origianl for some reason (I think it has to do with url encoding) but the mimifiedBookmark.js does not have these issuses
 
 ## Misc
 - Some problems have special formatting so it might not work. I will fix the script as I come across new problems that dont work.
